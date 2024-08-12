@@ -23,7 +23,8 @@
   }
   
   .navbar a {
-    text-decoration: none;
+    text-decoration: none; 
+    /* anchor tags has bydefault underline so used text-decoration*/
     color: white;
   }
   
